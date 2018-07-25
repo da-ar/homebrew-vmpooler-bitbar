@@ -1,10 +1,10 @@
 class VmpoolerBitbar < Formula
     desc "Manage vmpooler from your OSX menubar"
     homepage "https://github.com/johnmccabe/vmpooler-bitbar/"
-    url "https://github.com/johnmccabe/vmpooler-bitbar/releases/download/v2.1.0/vmpooler-bitbar.tar.gz"
+    url "https://github.com/johnmccabe/vmpooler-bitbar/releases/download/v2.1.1/vmpooler-bitbar.tar.gz"
     
-    sha256 "208674485b2d927ee3a14162fe7f496975d5bed59083bc208630b79785d0b1a8"
-    version "v2.1.0"
+    sha256 "955552581a60f2b0b9cbab8edd09be73267aa06a49835d5da127e0edbe858d4c"
+    version "v2.1.1"
   
     bottle :unneeded
   
